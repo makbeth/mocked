@@ -1,5 +1,5 @@
 {
   "User": {
-    "status": { "string": {"sucess", "error"} }
+    "status": { "string": ["sucess", "error"] }
   }
 }
